@@ -1,0 +1,4 @@
+azureml-sdk
+numpy
+pandas
+scikit-learn
