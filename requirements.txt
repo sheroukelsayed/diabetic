@@ -2,3 +2,7 @@ azureml-sdk
 numpy
 pandas
 scikit-learn
+streamlit
+requests
+
+
