@@ -1,0 +1,7 @@
+{
+    "subscription_id": "Azure subscription 1",
+    "resource_group": "Medical",
+    "app_service_plan": "your-app-service-plan-name",
+    "web_app_name": "MedicalApp",
+    "region": "West US 2"
+}
