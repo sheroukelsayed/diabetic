@@ -1,0 +1,6 @@
+$AzCred = Get-Credential -UserName <username>
+az login -u $AzCred.UserName -p $AzCred.GetNetworkCredential().Password
+
+az login 
+az login tenant 
+microsoft.web from resources provider
